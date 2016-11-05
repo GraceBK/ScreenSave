@@ -11,3 +11,4 @@
 @interface ScreenSaveView : ScreenSaverView
 
 @end
+
